@@ -1,0 +1,9 @@
+package se_01;
+
+public class HelloWorld {
+
+	public String greetings(String str) {
+		return "Hello " + str;
+	}
+
+}
